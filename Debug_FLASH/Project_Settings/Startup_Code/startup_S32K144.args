@@ -1,0 +1,8 @@
+-c
+-I"C:/Users/huong/workspaceS32DS.ARM.2.2/Exercise_Interrupt_BUTTON/include"
+-x assembler-with-cpp
+-DSTART_FROM_FLASH
+-g3
+-mcpu=cortex-m4
+-specs=nosys.specs
+--sysroot="D:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib"
